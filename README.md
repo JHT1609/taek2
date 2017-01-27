@@ -14,3 +14,4 @@
 	6.Document Findings, Actions, and Outcomes
 7. Closed-ended spurning getur bara verið svöruð á einn eða annan þátt (yes or no question) td. "Did you install the program?" Meðan Open-ended er meira eins og "What program did you install?"
 8. Tæki sem er tengist við tölvuna en er ekki partur af henni, td. Prentarar, Hátalarar og hljóðnemar
+9. Mús, lyklaborð og Hljóðnemi
