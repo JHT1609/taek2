@@ -5,4 +5,10 @@
 2. ROM stendur fyrir Read Only Memory. Það er minni sem þú getur bara lesið.
 3. Fyrirbyggjandi viðhald er viðhald gert til að koma í veg fyrir bilun
 4. ESD stenur fyrir Electrostatic discharge. Til að forða því ættir þú að setja tölvu græur þínar í Anti static poka þegar þú tekur þær út og klæðist Anti static wrist strap
-5. Volts og wattage 
+5. Volts og wattage
+6. 	1.Identify the problem
+	2.Establish a theory of probable cause
+	3.Test the theory to Determine Cause
+	4.Establish a Plan of Action to Resolve the Problem and Implement the Solution
+	5.Verify full system functionality and, if applicable, Implement preventive measures
+	6.Document Findings, Actions, and Outcomes
