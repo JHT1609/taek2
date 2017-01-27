@@ -15,3 +15,15 @@
 7. Closed-ended spurning getur bara verið svöruð á einn eða annan þátt (yes or no question) td. "Did you install the program?" Meðan Open-ended er meira eins og "What program did you install?"
 8. Tæki sem er tengist við tölvuna en er ekki partur af henni, td. Prentarar, Hátalarar og hljóðnemar
 9. Mús, lyklaborð og Hljóðnemi
+10. Allar vörurnar eru frá Tölvutek búðinni.
+	1.Inter-TechIT-5905 ATX turnkassi				 6,990.kr
+	2.Gigabyte G750H 750W aflgjafi					24,990.kr
+	3.Intel Core I5-6400 Quad Core örgjörvi				26,990.kr
+	4.Thermaltake Contac 21 örgjörvakæling				 6,990.kr
+	5.ADATA 16GB DDR3 2133MHz (2x8GB) XPG V1.0 vinnsluminni		29,990.kr
+	6.Gigabyte S2011 GA-X99-Ultra Gaming móðurborð			69,990.kr
+	7.4TB SATA3 Seagate Desktop HDD harður diskur 			26,990.kr
+	8.Lite-On IHAS124-14 DVD+/- skrifari				 4,990.kr
+	9.Gigabyte GTX 1050 Ti OC skjákort 4GB GDDR5			29,990.kr
+
+	Verð lagt saman: 227,910.kr
